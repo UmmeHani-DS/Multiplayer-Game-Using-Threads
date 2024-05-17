@@ -25,7 +25,4 @@ The objective of this project is to create a multiplayer game where players can 
 
 The Game provides an interactive and engaging multiplayer gaming experience. By utilizing threading and message passing, the game ensures smooth gameplay and prevents conflicts between players. With dynamic game board generation and scalable thread priorities, the game offers a dynamic and enjoyable gaming experience for players of all levels.
 
----
-
-Developed by [Umm e Hani]
 
